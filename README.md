@@ -27,7 +27,7 @@ the plot of the history from my training. I will discuss later how you can use m
 **dataset2-master** is the blood cell image dataset that I used this CNN for. It will be also be empty by default because of 
 the size of the folders containing the blood cell images. If you want to use this CNN to identify the same pictures that 
 I did, you must go to https://www.kaggle.com/paultimothymooney/blood-cells and download the folder called 'dataset2-master'
-(this will take a while as it contains thousands of images). Once you have downloaded the folder, past the contents into
+(this will take a while as it contains thousands of images). Once you have downloaded the folder, paste the contents into
 your empty dataset2-master while perserving its file structure. If you decide to train on different images, you do not 
 have to do this and you can delete the empty dataset2-master.
 
